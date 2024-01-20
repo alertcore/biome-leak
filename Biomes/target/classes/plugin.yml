@@ -1,0 +1,8 @@
+name: Biomes
+version: '1.0'
+main: com.cota.biomes.Biomes
+api-version: 1.13
+
+commands:
+  biomes:
+    description: change your group
