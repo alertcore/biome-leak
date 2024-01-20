@@ -1,0 +1,8 @@
+name: Biomes
+version: '${project.version}'
+main: com.cota.biomes.Biomes
+api-version: 1.13
+
+commands:
+  biomes:
+    description: change your group
